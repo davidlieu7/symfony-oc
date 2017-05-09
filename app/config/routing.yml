@@ -3,5 +3,5 @@ oc_platform:
     prefix:   /
 
 app:
-    resource: "@AppBundle/Controller/"
-    type:     annotation
+    resource: '@AppBundle/Controller/'
+    type: annotation
